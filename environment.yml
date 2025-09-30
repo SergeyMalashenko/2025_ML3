@@ -1,0 +1,21 @@
+name: ML3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9.23
+  - numpy=2.0.2
+  - matplotlib=3.9.4
+  - tqdm=4.67.1
+  - ipywidgets=8.1.7
+  - jupyterlab=4.4.5
+  - notebook=7.4.5
+  - pytorch=2.5.1
+  - torchvision=0.20.1
+  - torchaudio=2.5.1
+  - opencv=4.11.0
+  - albumentations=2.0.8
+  - scipy=1.13.1
+  - pip
+  - pip:
+      - torchsummary==1.5.1
