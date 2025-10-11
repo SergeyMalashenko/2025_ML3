@@ -5,3 +5,4 @@ seminars/03_neuralnetwork/checkpoint.pth.tar
 seminars/03_neuralnetwork/mnist_png.*
 seminars/03_neuralnetwork/state_dict.pth.tar
 seminars/04_convolutions/volleyball.jpeg
+seminars/04_convolutions/MNIST/*
