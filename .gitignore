@@ -6,3 +6,12 @@ seminars/03_neuralnetwork/mnist_png.*
 seminars/03_neuralnetwork/state_dict.pth.tar
 seminars/04_convolutions/volleyball.jpeg
 seminars/04_convolutions/MNIST/*
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+seminars/05_cnn/checkpoints_aug/
+seminars/05_cnn/checkpoints_baseline/
+seminars/05_cnn/checkpoints_finetuned/
+seminars/05_cnn/cifar-10-batches-py/
+seminars/05_cnn/cifar-10-python.tar.gz
+seminars/05_cnn/test.pth.tar
+seminars/05_cnn/wandb/
