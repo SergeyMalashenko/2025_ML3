@@ -16,3 +16,5 @@ seminars/05_cnn/cifar-10-python.tar.gz
 seminars/05_cnn/test.pth.tar
 seminars/05_cnn/wandb/
 **/__pycache__/
+seminars/10_nlp/data/
+**/.ipynb_checkpoints/
