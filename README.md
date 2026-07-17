@@ -3,8 +3,9 @@
 Материалы лекций и семинаров курса
 [«Машинное обучение 3» в AI Masters](https://aimasters.ru/ml3).
 
-- Авторы курса и семинаристы — [Сергей Малашенко](https://github.com/SergeyMalashenko)
-  и [Александр Лощилов](https://github.com/aloschilov).
+- Автор курса и лектор — [Александр Дьяконов](https://github.com/Dyakonov).
+- Семинаристы — [Александр Лощилов](https://github.com/aloschilov) и
+  [Сергей Малашенко](https://github.com/SergeyMalashenko).
 
 ## Материалы занятий
 
